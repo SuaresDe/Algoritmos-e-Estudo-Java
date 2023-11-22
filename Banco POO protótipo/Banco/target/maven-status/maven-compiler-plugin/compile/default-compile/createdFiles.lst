@@ -1,0 +1,6 @@
+com\mycompany\banco\ContaPoupanca.class
+com\mycompany\banco\ContaCorrente.class
+com\mycompany\banco\ContaBancaria.class
+com\mycompany\banco\DataUtil.class
+com\mycompany\banco\Banco.class
+com\mycompany\banco\Mov.class
