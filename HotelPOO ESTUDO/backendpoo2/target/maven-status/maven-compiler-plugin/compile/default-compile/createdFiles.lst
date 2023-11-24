@@ -1,0 +1,10 @@
+com\mycompany\backendpoo2\Backendpoo2.class
+com\mycompany\backendpoo2\Camareira.class
+com\mycompany\backendpoo2\Recepcionista.class
+com\mycompany\backendpoo2\Gerente.class
+com\mycompany\backendpoo2\Cliente.class
+com\mycompany\backendpoo2\EnumTipo.class
+com\mycompany\backendpoo2\Quarto.class
+com\mycompany\backendpoo2\Pessoa.class
+interfaces\IRecepcionista.class
+interfaces\ICamareira.class
